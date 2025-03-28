@@ -7,5 +7,4 @@ Welcome to **My App**! This project is designed to [brief description of the app
 - Feature 2
 - Feature 3
 
-## Getting Started
-Follow the steps below to set up the project locally.
+## Little Lemon Restaurant
