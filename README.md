@@ -1,6 +1,6 @@
 # My App
 
-Welcome to **My App**! This project is designed to [brief description of the app]. Below, you'll find instructions to get started.
+Welcome to **Little Lemon**! This project is designed to [brief description of the app]. Below, you'll find instructions to get started.
 
 ## Features
 - Feature 1
@@ -8,3 +8,4 @@ Welcome to **My App**! This project is designed to [brief description of the app
 - Feature 3
 
 ## Little Lemon Restaurant
+
