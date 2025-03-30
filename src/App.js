@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       HOMEPAGE
+      LIL LEMON 
     </div>
   );
 }
