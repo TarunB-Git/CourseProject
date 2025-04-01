@@ -5,12 +5,11 @@ function App() {
     <div className="App">
       HOMEPAGE
       LIL LEMON 
-
-      oops i did it again
-    
+Adding figma    
       
     </div>
   );
 }
 
 export default App;
+
