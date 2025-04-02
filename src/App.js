@@ -5,8 +5,9 @@ function App() {
     <div className="App">
       HOMEPAGE
       LIL LEMON 
-Adding figma    
-      
+Add
+
+i know i am not proficient enough in this
     </div>
   );
 }
