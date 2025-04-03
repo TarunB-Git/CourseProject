@@ -7,8 +7,7 @@ function App() {
       LIL LEMON 
 Add
 
-i know i am not proficient enough in this
-    </div>
+But eh    </div>
   );
 }
 
