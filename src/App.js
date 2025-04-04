@@ -5,8 +5,7 @@ function App() {
     <div className="App">
       HOMEPAGE
       LIL LEMON 
-Add
-
+OOPS
 But eh    </div>
   );
 }
