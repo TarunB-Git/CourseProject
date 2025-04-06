@@ -6,7 +6,7 @@ function App() {
       HOMEPAGE
       LIL LEMON 
 
-But I better    </div>
+But I better do it soon   </div>
   );
 }
 
