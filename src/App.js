@@ -6,7 +6,7 @@ function App() {
       HOMEPAGE
       LIL LEMON 
 
- tmrw?  </div>
+ no?  </div>
   );
 }
 
