@@ -26,6 +26,14 @@ function App() {
         <li>Gyro</li>
         <li>Chicken Souvlaki</li>
         <li>Lamb Kofta</li>   
+        <li>Moussaka</li>     
+        <li>Baklava Cheesecake</li>
+        <li>Chocolate Lava Cake</li>
+        <li>Baklava Ice Cream</li>
+        <li>Baklava Cheesecake</li>
+        <li>Chocolate Lava Cake</li>
+        <li>Baklava Ice Cream</li>
+        
  .  </div>
   );
 }
