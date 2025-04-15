@@ -33,6 +33,8 @@ function App() {
         <li>Baklava Cheesecake</li>
         <li>Chocolate Lava Cake</li>
         <li>Baklava Ice Cream</li>
+        <li>Banana Split</li>
+        <li>Chocolate Mousse</li>
         
  .  </div>
   );
