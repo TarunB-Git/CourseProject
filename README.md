@@ -55,4 +55,21 @@ Mission status: Always in progress
   
 </div>
 
-hn
+## The Man in Black
+
+<div align="center">
+    <img src="https://img.shields.io/badge/ENIGMA-UNCHARTED-black?style=for-the-badge" alt="Mystery Badge" />
+    <img src="https://img.shields.io/badge/AURA-IMMERSIVE-purple?style=for-the-badge" alt="Aura Badge"/>
+</div>
+
+### Setup
+1. Clone this repository.
+2. Initialize your mission parameters.
+
+### Usage
+Use secrecy:
+```
+git commit -m "I operate in the shadows"
+```
+
+Stay vigilant and proceed with caution.
