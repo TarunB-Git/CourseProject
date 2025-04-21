@@ -17,6 +17,8 @@ Welcome to **Little Lemon**! This project is designed to [brief description of t
 - Embed workflow status widgets to showcase tests and deployments
 - Use custom styling (images, emojis, or GIFs) to enhance visual appeal
 
+## The Man in Black
+
 
 ## ⚡ Powers & Abilities ⚡
 
@@ -55,7 +57,6 @@ Mission status: Always in progress
   
 </div>
 
-## The Man in Black
 
 <div align="center">
     <img src="https://img.shields.io/badge/ENIGMA-UNCHARTED-black?style=for-the-badge" alt="Mystery Badge" />
@@ -73,3 +74,4 @@ git commit -m "I operate in the shadows"
 ```
 
 Stay vigilant and proceed with caution.
+
