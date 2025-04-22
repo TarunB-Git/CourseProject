@@ -73,5 +73,5 @@ Use secrecy:
 git commit -m "I operate in the shadows"
 ```
 
-Stay vigilant and proceed with caution.
+Stay vigilant and proceed with caution at all times.
 
