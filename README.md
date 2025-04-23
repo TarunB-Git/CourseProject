@@ -19,7 +19,6 @@ Welcome to **Little Lemon**! This project is designed to [brief description of t
 
 ## The Man in Black
 
-
 ## ⚡ Powers & Abilities ⚡
 
 <div align="center">
@@ -75,3 +74,9 @@ git commit -m "I operate in the shadows"
 
 Stay vigilant and proceed with caution at all times.
 
+
+## Contributing
+If you have information that could assist in tracking or understanding the Man in Black, please contribute responsibly. All submissions are subject to review and potential [REDACTION].
+
+## License
+This project operates under the principle of [REDACTED] — use with extreme discretion.
