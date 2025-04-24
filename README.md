@@ -80,3 +80,15 @@ If you have information that could assist in tracking or understanding the Man i
 
 ## License
 This project operates under the principle of [REDACTED] — use with extreme discretion.
+
+## Acknowledgments
+
+Special thanks to those who dare to seek knowledge of the unknown.
+
+---
+
+<div align="center">
+  
+![End of Transmission](https://img.shields.io/badge/END_OF_TRANSMISSION-IMPERATIVE-red?style=for-the-badge)
+  
+</div>
