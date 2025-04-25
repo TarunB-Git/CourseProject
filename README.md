@@ -92,3 +92,19 @@ Special thanks to those who dare to seek knowledge of the unknown.
 ![End of Transmission](https://img.shields.io/badge/END_OF_TRANSMISSION-IMPERATIVE-red?style=for-the-badge)
   
 </div>
+
+## Installation
+
+1.  Install dependencies:
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+2.  Configure the application:
+
+    ```bash
+    cp .env.example .env
+    # Edit .env with your configurations
+    ```
