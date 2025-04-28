@@ -34,7 +34,7 @@ Welcome to **Little Lemon**! This project is designed to [brief description of t
 |-------|--------|-------------|
 | 🥷 Stealth | ★★★★★ | Moves like a shadow in the night |
 | 🧠 Strategy | ★★★★★ | Always three steps ahead of opponents |
-| 💪 Combat | ★★★★☆ | Masterful in 17 fighting styles |
+| 💪 Combat | ★★★★☆ | Masterful in 17� fighting styles |
 | 🔍 Detection | ★★★★★ | Nothing escapes his notice |
 
 > "They say he appears when you speak his name three times... but by then it's already too late." 
