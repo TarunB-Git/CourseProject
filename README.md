@@ -69,7 +69,7 @@ Mission status: Always in progress
 ### Usage
 Use secrecy:
 ```
-git commit -m "I operate in the shadows"
+git commit -m "I operate in the darkest shadows"
 ```
 
 Stay vigilant and proceed with caution at all times.
