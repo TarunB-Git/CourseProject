@@ -67,7 +67,7 @@ Mission status: Always in progress
 2. Initialize your mission parameters.
 
 ### Usage
-Use secrecy:
+Use secrecy always:
 ```
 git commit -m "I operate in the darkest shadows"
 ```
