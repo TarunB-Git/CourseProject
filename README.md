@@ -83,7 +83,7 @@ This project operates under the principle of [REDACTED] — use with extreme dis
 
 ## Acknowledgments
 
-Special thanks to those who dare to seek knowledge of the unknown.
+Special thanks to those who would dare to seek knowledge of the unknown.
 
 ---
 
