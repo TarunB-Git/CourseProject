@@ -76,7 +76,7 @@ Stay vigilant and proceed with caution at all times.
 
 
 ## Contributing
-If you have information that could assist in tracking or understanding the Man? in Black, please contribute responsibly. All submissions are subject to review and potential [REDACTION].
+If you have information that could assist in tracking or understanding the Man? in Black, please contribute responsibly. All submissions are subject to review and potential [REDACTED].
 
 ## License
 This project operates under the principle of [REDACTED] — use with extreme discretion.
