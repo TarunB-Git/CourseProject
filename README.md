@@ -33,7 +33,7 @@ Welcome to **Little Lemon**! This project is designed to [brief description of t
 | Skill | Rating | Description |
 |-------|--------|-------------|
 | 🥷 Stealth | ★★★★★ | Moves like a shadow in the night |
-| 🧠 Strategy | ★★★★★ | Always three steps ahead of opponents |
+| 🧠 Strategy | ★★★★★ | Always eighteen moves ahead of opponents |
 | 💪 Combat | ★★★★☆ | Masterful in 1#*7� fighting styles |
 | 🔍 Detection | ★★★★★ | Nothing escapes his? notice |
 
