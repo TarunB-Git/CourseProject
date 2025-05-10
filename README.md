@@ -70,6 +70,9 @@ Mission status: Always in progress
 Use secrecy always:
 ```
 git commit -m "I operate in the darkest shadows"
+or
+git commit -m "Fear not, civilians!"
+
 ```
 
 Stay vigilant and proceed with caution at all times.
