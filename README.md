@@ -71,7 +71,7 @@ Use secrecy always:
 ```
 git commit -m "I operate in the darkest shadows"
 or
-git commit -m "Only the guilty need fear me!"
+git commit -m "Only death pays all dues"
 
 ```
 
