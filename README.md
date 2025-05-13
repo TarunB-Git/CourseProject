@@ -75,7 +75,7 @@ git commit -m "Only death pays all dues"
 
 ```
 
-Stay vigilant and proceed with caution at all times.
+Stay vigilant and proceed with the utmost caution at all times.
 
 
 ## Contributing
